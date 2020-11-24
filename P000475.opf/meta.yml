@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG14133
   title: སྦས་དོན་གྱི་ཕྱོགས་ཆ།
-  volume: ''
+  volume:
+    171ab4f66e1548cb9adb49753ac17e37:
+      image_group_id: I1KG14323
+      title: Volume 1 of sbas don gyi phyogs cha/
+      volume_number: 1
+      total_pages: 238
   author: ''
+ebook_metadata:
+  title: སྦས་དོན་གྱི་ཕྱོགས་ཆ།
+  author: ''
+  sku: P000475
+  cover: cover.jpg
+  layers:
+  - pagination
